@@ -65,7 +65,7 @@ Foreign key constraints are used to maintain referential integrity.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Bus-Info-System.git
+git clone https://github.com/Darshanbm05/Bus-Info-System.git
 cd Bus-Info-System
 ```
 
